@@ -121,7 +121,7 @@ This will install both the library and the `dolphin-mcp-cli` command-line tool.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/cognitivecomputations/dolphin-mcp.git
+   git clone https://github.com/QuixiAI/dolphin-mcp.git
    cd dolphin-mcp
    ```
 
